@@ -1,0 +1,9 @@
+html
+  head
+    title!= title
+    link(rel='stylesheet', href='/libs/bootstrap/dist/css/bootstrap.min.css')
+  body
+    .container
+      include header
+      block content
+      include footer

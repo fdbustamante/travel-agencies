@@ -1,0 +1,13 @@
+{
+  "name": "Volando",
+  "version": "0.0.1",
+  "description": "Front for connect with volando API",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "latest",
+    "jade": "^1.11.0"
+  }
+}
