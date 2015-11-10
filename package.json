@@ -6,8 +6,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "ejs": "^2.3.4",
-    "express": "latest",
-    "jade": "^1.11.0"
+    "express": "latest"
   }
 }
